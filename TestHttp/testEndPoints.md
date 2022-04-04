@@ -3,6 +3,7 @@
 ##  Integrar la API de prueba StarWars API 
 ### get people
 ## {{id}} : id Obtener una persona
+## id = 1
 GET {{api}}/people/{{id}}
 
 
